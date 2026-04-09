@@ -1,0 +1,33 @@
+﻿<VisualSettings>
+  <DefEventFilter />
+  <Version>v2.2.250</Version>
+  <OpenInExternalWebBrowser>false</OpenInExternalWebBrowser>
+  <EnableGraphicAnnotation>true</EnableGraphicAnnotation>
+  <UseOnlyCommonFilterView>false</UseOnlyCommonFilterView>
+  <ShowVideoPlaybackStatistics>false</ShowVideoPlaybackStatistics>
+  <Base_Subscription_Port>8085</Base_Subscription_Port>
+  <Event_Subscription_Type>TRY_PULL</Event_Subscription_Type>
+  <Transport_Type>RTSP</Transport_Type>
+  <EngineerTool_IsEnabled>false</EngineerTool_IsEnabled>
+  <ui_video_rendering_fps>30</ui_video_rendering_fps>
+  <ItemSelector_IsPropertiesExpanded>false</ItemSelector_IsPropertiesExpanded>
+  <Events_IsEnabled>true</Events_IsEnabled>
+  <EventsCollect_IsEnabled>false</EventsCollect_IsEnabled>
+  <Snapshot_IsEnabled>true</Snapshot_IsEnabled>
+  <CustomAnalytics_IsEnabled>true</CustomAnalytics_IsEnabled>
+  <WndSize>
+    <Location>
+      <X>0</X>
+      <Y>0</Y>
+    </Location>
+    <Size>
+      <Width>640</Width>
+      <Height>480</Height>
+    </Size>
+    <X>0</X>
+    <Y>0</Y>
+    <Width>640</Width>
+    <Height>480</Height>
+  </WndSize>
+  <WndState>Maximized</WndState>
+</VisualSettings>
