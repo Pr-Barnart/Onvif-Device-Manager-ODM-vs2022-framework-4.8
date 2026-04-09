@@ -1,0 +1,486 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  UsageEnvironment.cpp
+  strDup.cpp
+  HashTable.cpp
+  WAVAudioFileSource.cpp
+  WAVAudioFileServerMediaSubsession.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\WAVAudioFileSource.cpp(96,19): warning C4244: '=': conversion from 'int' to 'u_int16_t', possible loss of data
+  VP8VideoRTPSource.cpp
+  VP8VideoRTPSink.cpp
+  VP8VideoMatroskaFileServerMediaSubsession.cpp
+  VorbisAudioRTPSource.cpp
+  VorbisAudioRTPSink.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(70,16): warning C4244: '=': conversion from 'u_int32_t' to 'u_int8_t', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(70,35): warning C4244: '=': conversion from 'u_int32_t' to 'u_int8_t', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(70,47): warning C4244: '=': conversion from 'u_int32_t' to 'u_int8_t', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(71,16): warning C4244: '=': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(71,28): warning C4244: '=': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(72,20): warning C4244: '=': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(80,18): warning C4244: '=': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(91,13): warning C4244: '=': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(170,12): warning C4244: '-=': conversion from 'unsigned int' to 'u_int16_t', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(229,21): warning C4244: '=': conversion from 'u_int32_t' to 'u_int8_t', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(229,45): warning C4244: '=': conversion from 'u_int32_t' to 'u_int8_t', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(229,62): warning C4244: '=': conversion from 'u_int32_t' to 'u_int8_t', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(247,20): warning C4244: 'initializing': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(254,43): warning C4244: '=': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(255,28): warning C4244: '=': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+  VorbisAudioMatroskaFileServerMediaSubsession.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\VorbisAudioMatroskaFileServerMediaSubsession.cpp(113,14): warning C4456: declaration of 'p' hides previous local declaration
+      E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\VorbisAudioMatroskaFileServerMediaSubsession.cpp(46,15):
+      see declaration of 'p'
+  
+  VideoRTPSink.cpp
+  uLawAudioFilter.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\uLawAudioFilter.cpp(97,26): warning C4244: 'initializing': conversion from 'const int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\uLawAudioFilter.cpp(196,20): warning C4244: 'initializing': conversion from 'int' to 'u_int16_t', possible loss of data
+  TextRTPSink.cpp
+  TCPStreamSink.cpp
+  T140TextRTPSink.cpp
+  T140TextMatroskaFileServerMediaSubsession.cpp
+  StreamReplicator.cpp
+  StreamParser.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced parameter
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/StreamParser.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\StreamParser.cpp(70,31): warning C4244: '-=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\StreamParser.cpp(78,50): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\StreamParser.cpp(86,31): warning C4244: '-=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\StreamParser.cpp(109,50): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+  SIPClient.cpp
+  Generating Code...
+  Compiling...
+  SimpleRTPSource.cpp
+  SimpleRTPSink.cpp
+  ServerMediaSession.cpp
+  RTSPServerSupportingHTTPStreaming.cpp
+  RTSPServer.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(789,33): warning C4456: declaration of 'clientSession' hides previous local declaration
+      E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(654,36):
+      see declaration of 'clientSession'
+  
+  RTSPCommon.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\RTSPCommon.cpp(306,32): warning C4100: 'socketNum': unreferenced parameter
+  RTSPClient.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(1077,24): warning C4457: declaration of 'subsession' hides function parameter
+      E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(1064,80):
+      see declaration of 'subsession'
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(1272,70): warning C4100: 'responseString': unreferenced parameter
+  RTPSource.cpp
+  RTPSink.cpp
+  RTPInterface.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\RTPInterface.cpp(244,25): warning C4244: '-=': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+  RTCP.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\RTCP.cpp(269,46): warning C4245: 'argument': conversion from 'int' to 'netAddressBits', signed/unsigned mismatch
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\RTCP.cpp(277,72): warning C4245: 'argument': conversion from 'int' to 'netAddressBits', signed/unsigned mismatch
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\RTCP.cpp(279,51): warning C4245: 'argument': conversion from 'int' to 'netAddressBits', signed/unsigned mismatch
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\RTCP.cpp(505,67): warning C4245: 'argument': conversion from 'int' to 'netAddressBits', signed/unsigned mismatch
+  QuickTimeGenericRTPSource.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeGenericRTPSource.cpp(134,27): warning C4244: 'initializing': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeGenericRTPSource.cpp(207,27): warning C4244: 'initializing': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+  QuickTimeFileSink.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(894,7): warning C4244: 'initializing': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(931,27): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(934,40): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(977,46): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(982,20): warning C4244: 'initializing': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(983,2): warning C4244: 'initializing': conversion from 'unsigned int' to 'const unsigned short', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(984,20): warning C4244: 'initializing': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(985,2): warning C4244: 'initializing': conversion from 'unsigned int' to 'const unsigned short', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(1036,55): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(1193,34): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(1194,15): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(1194,29): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(1488,7): warning C4245: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(1802,19): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(1893,25): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(1900,25): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(2052,32): warning C4245: 'initializing': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(2122,22): warning C4456: declaration of 'chunk' hides previous local declaration
+      E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(2082,20):
+      see declaration of 'chunk'
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(2126,16): warning C4456: declaration of 'sampleSize' hides previous local declaration
+      E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(2102,12):
+      see declaration of 'sampleSize'
+  
+  QCELPAudioRTPSource.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QCELPAudioRTPSource.cpp(449,33): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\QCELPAudioRTPSource.cpp(461,26): warning C4244: 'initializing': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+  ProxyServerMediaSession.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\ProxyServerMediaSession.cpp(473,66): warning C4100: 'inputSource': unreferenced parameter
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\ProxyServerMediaSession.cpp(525,55): warning C4244: 'argument': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+  PassiveServerMediaSubsession.cpp
+  OutputFile.cpp
+  OnDemandServerMediaSubsession.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\OnDemandServerMediaSubsession.cpp(63,34): warning C4244: 'initializing': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\OnDemandServerMediaSubsession.cpp(131,24): warning C4456: declaration of 'serverPortNum' hides previous local declaration
+      E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\OnDemandServerMediaSubsession.cpp(112,17):
+      see declaration of 'serverPortNum'
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\OnDemandServerMediaSubsession.cpp(152,36): warning C4244: 'initializing': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\OnDemandServerMediaSubsession.cpp(296,71): warning C4100: 'numBytes': unreferenced parameter
+  MultiFramedRTPSource.cpp
+  MultiFramedRTPSink.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MultiFramedRTPSink.cpp(139,40): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+  Generating Code...
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\RTPInterface.cpp(424,1): warning C4701: potentially uninitialized local variable 'c' used
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(941,1): warning C4701: potentially uninitialized local variable 'multicastPortNumRTP' used
+  Compiling...
+  MPEGVideoStreamParser.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced parameter
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/MPEGVideoStreamParser.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,37): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/MPEGVideoStreamParser.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,56): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/MPEGVideoStreamParser.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,70): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/MPEGVideoStreamParser.cpp')
+  
+  MPEGVideoStreamFramer.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced parameter
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/MPEGVideoStreamFramer.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,37): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/MPEGVideoStreamFramer.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,56): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/MPEGVideoStreamFramer.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,70): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/MPEGVideoStreamFramer.cpp')
+  
+  MPEG4VideoStreamFramer.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced parameter
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/MPEG4VideoStreamFramer.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,37): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/MPEG4VideoStreamFramer.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,56): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/MPEG4VideoStreamFramer.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,70): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/MPEG4VideoStreamFramer.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG4VideoStreamFramer.cpp(648,17): warning C4456: declaration of 'next4Bytes' hides previous local declaration
+      E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG4VideoStreamFramer.cpp(531,13):
+      see declaration of 'next4Bytes'
+  
+  MPEG4VideoStreamDiscreteFramer.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG4VideoStreamDiscreteFramer.cpp(137,18): warning C4456: declaration of 'i' hides previous local declaration
+      E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG4VideoStreamDiscreteFramer.cpp(72,14):
+      see declaration of 'i'
+  
+  MPEG4VideoFileServerMediaSubsession.cpp
+  MPEG4LATMAudioRTPSource.cpp
+  MPEG4LATMAudioRTPSink.cpp
+  MPEG4GenericRTPSource.cpp
+  MPEG4GenericRTPSink.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG4GenericRTPSink.cpp(45,52): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG4GenericRTPSink.cpp(114,30): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+  MPEG4ESVideoRTPSource.cpp
+  MPEG4ESVideoRTPSink.cpp
+  MPEG2TransportUDPServerMediaSubsession.cpp
+  MPEG2TransportStreamTrickModeFilter.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamTrickModeFilter.cpp(237,22): warning C4100: 'presentationTime': unreferenced parameter
+  MPEG2TransportStreamMultiplexor.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(198,2): warning C4244: 'initializing': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(212,29): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(213,29): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(214,16): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(257,33): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(257,51): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(257,65): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(297,16): warning C4244: '=': conversion from 'int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(303,24): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(307,33): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(307,51): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(307,65): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  MPEG2TransportStreamIndexFile.cpp
+  MPEG2TransportStreamFromPESSource.cpp
+  MPEG2TransportStreamFromESSource.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamFromESSource.cpp(205,38): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamFromESSource.cpp(206,21): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamFromESSource.cpp(210,40): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamFromESSource.cpp(211,46): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamFromESSource.cpp(212,40): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamFromESSource.cpp(213,45): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  MPEG2TransportStreamFramer.cpp
+  MPEG2TransportFileServerMediaSubsession.cpp
+  MPEG2IndexFromTransportStream.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2IndexFromTransportStream.cpp(117,27): warning C4245: 'initializing': conversion from 'int' to 'u_int8_t', signed/unsigned mismatch
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2IndexFromTransportStream.cpp(259,46): warning C4244: 'argument': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2IndexFromTransportStream.cpp(177,17): warning C4100: 'durationInMicroseconds': unreferenced parameter
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2IndexFromTransportStream.cpp(176,23): warning C4100: 'presentationTime': unreferenced parameter
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2IndexFromTransportStream.cpp(175,17): warning C4100: 'numTruncatedBytes': unreferenced parameter
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2IndexFromTransportStream.cpp(532,26): warning C4244: 'initializing': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2IndexFromTransportStream.cpp(533,24): warning C4244: 'initializing': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG2IndexFromTransportStream.cpp(534,19): warning C4244: '=': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+  Generating Code...
+  Compiling...
+  MPEG1or2VideoStreamFramer.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced parameter
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/MPEG1or2VideoStreamFramer.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,37): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/MPEG1or2VideoStreamFramer.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,56): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/MPEG1or2VideoStreamFramer.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,70): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/MPEG1or2VideoStreamFramer.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG1or2VideoStreamFramer.cpp(379,37): warning C4244: 'initializing': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+  MPEG1or2VideoStreamDiscreteFramer.cpp
+  MPEG1or2VideoRTPSource.cpp
+  MPEG1or2VideoRTPSink.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG1or2VideoRTPSink.cpp(97,66): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+  MPEG1or2VideoFileServerMediaSubsession.cpp
+  MPEG1or2FileServerDemux.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG1or2FileServerDemux.cpp(39,72): warning C4245: 'initializing': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+  MPEG1or2DemuxedServerMediaSubsession.cpp
+  MPEG1or2DemuxedElementaryStream.cpp
+  MPEG1or2Demux.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced parameter
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/MPEG1or2Demux.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG1or2Demux.cpp(459,40): warning C4244: 'initializing': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG1or2Demux.cpp(695,26): warning C4244: '-=': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEG1or2Demux.cpp(722,28): warning C4244: '-=': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+  MPEG1or2AudioStreamFramer.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced parameter
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/MPEG1or2AudioStreamFramer.cpp')
+  
+  MPEG1or2AudioRTPSource.cpp
+  MPEG1or2AudioRTPSink.cpp
+  MP3Transcoder.cpp
+  MP3StreamState.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MP3StreamState.cpp(409,42): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+  MP3InternalsHuffmanTable.cpp
+  MP3InternalsHuffman.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MP3InternalsHuffman.cpp(505,16): warning C4459: declaration of 'slen' hides global declaration
+      E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MP3InternalsHuffman.cpp(434,28):
+      see declaration of 'slen'
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MP3InternalsHuffman.cpp(608,16): warning C4245: 'initializing': conversion from 'int' to 'unsigned long', signed/unsigned mismatch
+  MP3Internals.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MP3Internals.cpp(199,65): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MP3Internals.cpp(347,21): warning C4100: 'ms_stereo': unreferenced parameter
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MP3Internals.cpp(430,21): warning C4100: 'ms_stereo': unreferenced parameter
+  MP3FileSource.cpp
+  MP3AudioMatroskaFileServerMediaSubsession.cpp
+  MP3AudioFileServerMediaSubsession.cpp
+  Generating Code...
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MP3StreamState.cpp(307,1): warning C4702: unreachable code
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MP3StreamState.cpp(310,1): warning C4702: unreachable code
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MP3StreamState.cpp(314,1): warning C4702: unreachable code
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MP3StreamState.cpp(320,1): warning C4702: unreachable code
+  Compiling...
+  MP3ADUTranscoder.cpp
+  MP3ADURTPSource.cpp
+  MP3ADURTPSink.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MP3ADURTPSink.cpp(93,28): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+  MP3ADUinterleaving.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MP3ADUinterleaving.cpp(36,36): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MP3ADUinterleaving.cpp(142,69): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MP3ADUinterleaving.cpp(157,63): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MP3ADUinterleaving.cpp(175,12): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MP3ADUinterleaving.cpp(175,6): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MP3ADUinterleaving.cpp(221,16): warning C4245: 'initializing': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MP3ADUinterleaving.cpp(221,34): warning C4245: 'initializing': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+  MP3ADUdescriptor.cpp
+  MP3ADU.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MP3ADU.cpp(471,11): warning C4456: declaration of 'bytesToZero' hides previous local declaration
+      E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MP3ADU.cpp(442,14):
+      see declaration of 'bytesToZero'
+  
+  MediaSource.cpp
+  MediaSink.cpp
+  MediaSession.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MediaSession.cpp(197,37): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MediaSession.cpp(953,57): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MediaSession.cpp(1023,57): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+  Media.cpp
+  MatroskaFileServerDemux.cpp
+  MatroskaFileParser.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced parameter
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/MatroskaFileParser.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MatroskaFileParser.cpp(821,13): warning C4456: declaration of 'c' hides previous local declaration
+      E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MatroskaFileParser.cpp(766,14):
+      see declaration of 'c'
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MatroskaFileParser.cpp(1135,21): warning C4127: conditional expression is constant
+  MatroskaFile.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced parameter
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/MatroskaFile.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MatroskaFile.cpp(392,22): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MatroskaFile.cpp(408,47): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MatroskaFile.cpp(413,25): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+  MatroskaDemuxedTrack.cpp
+  Locale.cpp
+  JPEGVideoSource.cpp
+  JPEGVideoRTPSource.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\JPEGVideoRTPSource.cpp(164,21): warning C4244: '=': conversion from 'int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\JPEGVideoRTPSource.cpp(165,28): warning C4244: '=': conversion from 'int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\JPEGVideoRTPSource.cpp(210,37): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\JPEGVideoRTPSource.cpp(217,14): warning C4456: declaration of 'tableSize' hides previous local declaration
+      E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\JPEGVideoRTPSource.cpp(208,12):
+      see declaration of 'tableSize'
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\JPEGVideoRTPSource.cpp(220,39): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\JPEGVideoRTPSource.cpp(309,23): warning C4244: '=': conversion from 'int' to 'unsigned char', possible loss of data
+  JPEGVideoRTPSink.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\JPEGVideoRTPSink.cpp(62,43): warning C4244: '=': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\JPEGVideoRTPSink.cpp(63,43): warning C4244: '=': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\JPEGVideoRTPSink.cpp(64,23): warning C4244: '=': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+  InputFile.cpp
+  H264VideoStreamFramer.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced parameter
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/H264VideoStreamFramer.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,37): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/H264VideoStreamFramer.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,56): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/H264VideoStreamFramer.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,70): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/H264VideoStreamFramer.cpp')
+  
+  Generating Code...
+  Compiling...
+  H264VideoStreamDiscreteFramer.cpp
+  H264VideoRTPSource.cpp
+  H264VideoRTPSink.cpp
+  H264VideoMatroskaFileServerMediaSubsession.cpp
+  H264VideoFileSink.cpp
+  H264VideoFileServerMediaSubsession.cpp
+  H263plusVideoStreamParser.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced parameter
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/H263plusVideoStreamParser.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\H263plusVideoStreamParser.cpp(385,21): warning C4244: 'return': conversion from 'int' to 'u_int8_t', possible loss of data
+  H263plusVideoStreamFramer.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced parameter
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/H263plusVideoStreamFramer.cpp')
+  
+  H263plusVideoRTPSource.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\H263plusVideoRTPSource.cpp(74,52): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\H263plusVideoRTPSource.cpp(82,56): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+  H263plusVideoRTPSink.cpp
+  H263plusVideoFileServerMediaSubsession.cpp
+  H261VideoRTPSource.cpp
+  GSMAudioRTPSink.cpp
+  FramedSource.cpp
+  FramedFilter.cpp
+  FramedFileSource.cpp
+  FileSink.cpp
+  FileServerMediaSubsession.cpp
+  EBMLNumber.cpp
+  DVVideoStreamFramer.cpp
+  Generating Code...
+  Compiling...
+  DVVideoRTPSource.cpp
+  DVVideoRTPSink.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\DVVideoRTPSink.cpp(46,54): warning C4100: 'fragmentationOffset': unreferenced parameter
+  DVVideoFileServerMediaSubsession.cpp
+  DigestAuthentication.cpp
+  DeviceSource.cpp
+  DarwinInjector.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\DarwinInjector.cpp(238,79): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\DarwinInjector.cpp(241,25): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\DarwinInjector.cpp(124,8): warning C4100: 'timeout': unreferenced parameter
+  ByteStreamMultiFileSource.cpp
+  ByteStreamMemoryBufferSource.cpp
+  ByteStreamFileSource.cpp
+  BitVector.cpp
+  BasicUDPSource.cpp
+  BasicUDPSink.cpp
+  Base64.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\Base64.cpp(29,58): warning C4310: cast truncates constant value
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\Base64.cpp(32,57): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\Base64.cpp(33,58): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\Base64.cpp(34,58): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+  AVIFileSink.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\AVIFileSink.cpp(560,11): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\AVIFileSink.cpp(560,30): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\AVIFileSink.cpp(561,15): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\AVIFileSink.cpp(735,27): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\AVIFileSink.cpp(738,42): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\AVIFileSink.cpp(740,27): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+  AudioRTPSink.cpp
+  AudioInputDevice.cpp
+  AMRAudioSource.cpp
+  AMRAudioRTPSource.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\AMRAudioRTPSource.cpp(342,41): warning C4100: 'framePtr': unreferenced parameter
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\AMRAudioRTPSource.cpp(563,59): warning C4244: 'argument': conversion from 'unsigned int' to 'u_int16_t', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\AMRAudioRTPSource.cpp(598,33): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\AMRAudioRTPSource.cpp(613,26): warning C4244: 'initializing': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\AMRAudioRTPSource.cpp(705,29): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\AMRAudioRTPSource.cpp(710,31): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+  AMRAudioRTPSink.cpp
+  AMRAudioFileSource.cpp
+  Generating Code...
+  Compiling...
+  AMRAudioFileSink.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\AMRAudioFileSink.cpp(85,57): warning C4244: '=': conversion from 'unsigned int' to 'char', possible loss of data
+  AMRAudioFileServerMediaSubsession.cpp
+  ADTSAudioFileSource.cpp
+  ADTSAudioFileServerMediaSubsession.cpp
+  AC3AudioStreamFramer.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced parameter
+  (compiling source file '../../libs/live555-2013.02.11/liveMedia/AC3AudioStreamFramer.cpp')
+  
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\AC3AudioStreamFramer.cpp(289,33): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\AC3AudioStreamFramer.cpp(290,33): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\AC3AudioStreamFramer.cpp(291,27): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+  AC3AudioRTPSource.cpp
+  AC3AudioRTPSink.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\liveMedia\AC3AudioRTPSink.cpp(73,68): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+  AC3AudioMatroskaFileServerMediaSubsession.cpp
+  AC3AudioFileServerMediaSubsession.cpp
+  AACAudioMatroskaFileServerMediaSubsession.cpp
+  NetInterface.cpp
+  NetAddress.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\groupsock\NetAddress.cpp(108,10): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  IOHandlers.cpp
+  GroupsockHelper.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\groupsock\GroupsockHelper.cpp(157,20): warning C4456: declaration of 'addr' hides previous local declaration
+      E:\odm\odm-master\libs\live555-2013.02.11\groupsock\GroupsockHelper.cpp(135,18):
+      see declaration of 'addr'
+  
+E:\odm\odm-master\libs\live555-2013.02.11\groupsock\GroupsockHelper.cpp(730,22): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+  Groupsock.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\groupsock\Groupsock.cpp(551,59): warning C4245: 'argument': conversion from 'int' to 'netAddressBits', signed/unsigned mismatch
+E:\odm\odm-master\libs\live555-2013.02.11\groupsock\Groupsock.cpp(553,46): warning C4245: 'argument': conversion from 'int' to 'netAddressBits', signed/unsigned mismatch
+E:\odm\odm-master\libs\live555-2013.02.11\groupsock\Groupsock.cpp(584,52): warning C4245: 'argument': conversion from 'int' to 'netAddressBits', signed/unsigned mismatch
+  GroupEId.cpp
+E:\odm\odm-master\libs\live555-2013.02.11\groupsock\GroupEId.cpp(74,29): warning C4245: '=': conversion from 'int' to 'ULONG', signed/unsigned mismatch
+  DelayQueue.cpp
+  BasicUsageEnvironment0.cpp
+  BasicUsageEnvironment.cpp
+  BasicTaskScheduler0.cpp
+  Generating Code...
+  Compiling...
+  BasicTaskScheduler.cpp
+  BasicHashTable.cpp
+  Generating Code...
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  rtcp_from_spec.c
+  our_md5hl.c
+  our_md5.c
+  inet.c
+E:\odm\odm-master\libs\live555-2013.02.11\groupsock\inet.c(15,10): warning C4131: 'our_inet_addr': uses old-style declarator
+E:\odm\odm-master\libs\live555-2013.02.11\groupsock\inet.c(18,9): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\odm\odm-master\libs\live555-2013.02.11\groupsock\inet.c(268,1): warning C4131: 'our_initstate': uses old-style declarator
+E:\odm\odm-master\libs\live555-2013.02.11\groupsock\inet.c(333,1): warning C4131: 'our_setstate': uses old-style declarator
+  Generating Code...
+  live555.vcxproj -> E:\odm\odm-master\libs\live555-2013.02.11\bin\Win32\Debug\live555.exe
