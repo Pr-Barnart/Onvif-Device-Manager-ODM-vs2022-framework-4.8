@@ -1,0 +1,13 @@
+E:\odm\odm-master\utils\utils.linq\bin\Debug\Net40\utils.linq.dll
+E:\odm\odm-master\utils\utils.linq\bin\Debug\Net40\utils.linq.pdb
+E:\odm\odm-master\utils\utils.linq\bin\Debug\Net40\System.Reactive.Core.dll
+E:\odm\odm-master\utils\utils.linq\bin\Debug\Net40\System.Reactive.Interfaces.dll
+E:\odm\odm-master\utils\utils.linq\bin\Debug\Net40\System.Reactive.Linq.dll
+E:\odm\odm-master\utils\utils.linq\bin\Debug\Net40\System.Reactive.Core.xml
+E:\odm\odm-master\utils\utils.linq\bin\Debug\Net40\System.Reactive.Interfaces.xml
+E:\odm\odm-master\utils\utils.linq\bin\Debug\Net40\System.Reactive.Linq.xml
+E:\odm\odm-master\utils\utils.linq\obj\Net40\Debug\utils.linq.csproj.AssemblyReference.cache
+E:\odm\odm-master\utils\utils.linq\obj\Net40\Debug\utils.linq.csproj.CoreCompileInputs.cache
+E:\odm\odm-master\utils\utils.linq\obj\Net40\Debug\utils.linq.csproj.Up2Date
+E:\odm\odm-master\utils\utils.linq\obj\Net40\Debug\utils.linq.dll
+E:\odm\odm-master\utils\utils.linq\obj\Net40\Debug\utils.linq.pdb
