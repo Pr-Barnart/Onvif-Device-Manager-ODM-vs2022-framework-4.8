@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>odm.infra</name></assembly>
+<members>
+<member name="M:odm.infra.UnityActivityExtensions.StartViewActivity``1(Microsoft.Practices.Unity.IUnityContainer,System.Action{odm.infra.IActivityContext{``0}})">
+<summary>
+ Start a view activity on the UI thread with proper cancellation and continuations
+</summary>
+</member>
+</members>
+</doc>
